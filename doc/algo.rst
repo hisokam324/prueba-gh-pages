@@ -1,7 +1,7 @@
-facial\_feature\_from\_file module
+algo module
 ==================================
 
-.. automodule:: facial_feature_from_file
+.. automodule:: algo
    :members:
    :undoc-members:
    :show-inheritance:
